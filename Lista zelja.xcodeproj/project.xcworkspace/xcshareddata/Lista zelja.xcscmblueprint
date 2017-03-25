@@ -1,16 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "490E6C6ED1C74BC839827D92D0B0B2492B059AA5",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8F5C6D68677461F98DC292B0B6FF146344369F8E",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "490E6C6ED1C74BC839827D92D0B0B2492B059AA5" : 9223372036854775807,
-    "AA9C185FDFAC0EA3F72F2D69029C481122895CB4" : 9223372036854775807
+    "8F5C6D68677461F98DC292B0B6FF146344369F8E" : 9223372036854775807,
+    "AA9C185FDFAC0EA3F72F2D69029C481122895CB4" : 9223372036854775807,
+    "490E6C6ED1C74BC839827D92D0B0B2492B059AA5" : 9223372036854775807
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3EA34F0C-DE72-4C7F-8889-920F2108BC25",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "490E6C6ED1C74BC839827D92D0B0B2492B059AA5" : "Lista%20zelja\/",
-    "AA9C185FDFAC0EA3F72F2D69029C481122895CB4" : ""
+    "8F5C6D68677461F98DC292B0B6FF146344369F8E" : "DreamList\/",
+    "AA9C185FDFAC0EA3F72F2D69029C481122895CB4" : "",
+    "490E6C6ED1C74BC839827D92D0B0B2492B059AA5" : "Lista%20zelja\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "Lista zelja",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -20,6 +22,11 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Vukovi\/CoreData-Lista-Zelja.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "490E6C6ED1C74BC839827D92D0B0B2492B059AA5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Vukovi\/CoreData-TabelaZelja-PikerSlika-SegmentKontrola.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8F5C6D68677461F98DC292B0B6FF146344369F8E"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Vukovi\/CoreData-Lista-Zelja.git",

@@ -3,7 +3,7 @@
 //  Lista zelja
 //
 //  Created by Vuk on 3/20/17.
-//  Copyright © 2017 Vuk. All rights reserved.//
+//  Copyright © 2017 Vuk. All rights reserved.// da vidimo gde ide komit
 //
 
 import UIKit
