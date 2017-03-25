@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "490E6C6ED1C74BC839827D92D0B0B2492B059AA5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "490E6C6ED1C74BC839827D92D0B0B2492B059AA5" : 9223372036854775807,
+    "AA9C185FDFAC0EA3F72F2D69029C481122895CB4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3EA34F0C-DE72-4C7F-8889-920F2108BC25",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "490E6C6ED1C74BC839827D92D0B0B2492B059AA5" : "Lista%20zelja\/",
+    "AA9C185FDFAC0EA3F72F2D69029C481122895CB4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Lista zelja",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Lista zelja.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Vukovi\/CoreData-Lista-Zelja.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "490E6C6ED1C74BC839827D92D0B0B2492B059AA5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Vukovi\/CoreData-Lista-Zelja.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AA9C185FDFAC0EA3F72F2D69029C481122895CB4"
+    }
+  ]
+}
